@@ -1,0 +1,6 @@
+Demo/.amlignore
+Demo/.amlignore.amltmp
+
+.venv/
+.env
+
